@@ -2,7 +2,7 @@
 
 ChatGPT chatbot designed for realtime conversation through a microphone through API. 
 
-![Screenshot](screenshot.png)
+![Screenshot](https://github.com/ckosk/VoiceGPT/blob/main/screenshot.PNG)
 
 
 ## Getting Started
